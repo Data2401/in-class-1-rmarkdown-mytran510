@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "MY TRAN"
 date: "Data 2401"
 output: html_document
 ---
@@ -32,3 +32,37 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
  
+# My Tran's work here
+
+## Wise words
+
+>No one saves us but ourselves
+
+[link quote](https://www.goodreads.com/quotes/498520-no-one-saves-us-but-ourselves-no-one-can-and#:~:text=No%20one%20can%20and%20no,ourselves%20must%20walk%20the%20path.%E2%80%9D)
+
+## My semester
+
+__Course number__  |  _Course title_    |   Instructor Name
+:-----------------:|:------------------:|:-------------------:
+  __DATA 2401__    |  _Data Science_    | Katherine Shoemaker
+  __MATH 2305__    |  _Discrete Math_   |    Vien Nguyen
+  __MATH 2422__    |  _Linear Algebra_  |   Edwin Tecarro
+
+## I recommend
+
+### TFBOYS
+
+```
+Shine a different light. Even if the night is too long
+```
+
+* Songs
+  + Magic Castle
+  + Youth
+
+* Albums
+  + Heart
+  + The Big Dreamer
+
+
+  
